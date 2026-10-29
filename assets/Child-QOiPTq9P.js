@@ -1,0 +1,1 @@
+import{t as e}from"./Mannequin-C8bHefFj.js";var t=class extends e{constructor(e=1.15){super(!1,e),this.name=`Child`,this.l_arm.straddle-=2,this.r_arm.straddle-=2,this.stepOnGround()}};export{t as Child};
